@@ -1,10 +1,8 @@
-import './App.css';
+import "./App.css";
+import HomePage from "./pages/post";
 
 function App() {
-  return (
-    <div>
-    </div>
-  );
+  return <HomePage />;
 }
 
 export default App;
